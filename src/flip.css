@@ -23,10 +23,10 @@ h1{
      -moz-box-shadow: inset 0 0 45px rgba(255,255,255,.3), 0 12px 20px -10px rgba(0,0,0,.4);
           box-shadow: inset 0 0 45px rgba(255,255,255,.3), 0 12px 20px -10px rgba(0,0,0,.4);
 }
-.heads {
+.side-a {
   background-color: #bb0000;
 }
-.tails {
+.side-b {
   background-color: #3e3e3e;
 }
 
@@ -38,12 +38,11 @@ h1{
   position: absolute;
   -webkit-backface-visibility: hidden;
 }
-.heads {
+.side-a {
   z-index: 100;
 }
-.tails {
+.side-b {
   -webkit-transform: rotateY(-180deg);
-
 }
 
 #medallion.heads {
