@@ -15,8 +15,8 @@ class Flip extends React.Component {
   render() {
     return (
       <div id="medallion">
-        <div class="heads"></div>
-        <div class="tails"></div>
+        <div className="side-a"></div>
+        <div className="side-b"></div>
       </div>
     );
   }
