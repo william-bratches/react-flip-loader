@@ -1,0 +1,26 @@
+{
+  "name": "react-flip-loader",
+  "version": "1.0.0",
+  "description": "A horizontally-spining loader for a cool 3D effect!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-bratches/react-flip-loader.git"
+  },
+  "keywords": [
+    "loader",
+    "spinner",
+    "flip",
+    "coin",
+    "medallion"
+  ],
+  "author": "William Bratches",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-bratches/react-flip-loader/issues"
+  },
+  "homepage": "https://github.com/william-bratches/react-flip-loader#readme"
+}
