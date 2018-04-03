@@ -33,6 +33,7 @@
     "babel-preset-env": "^1.5.1"
   },
   "dependencies": {
-    "react": "^16.3.0"
+    "react": "^16.3.0",
+    "webpack": "^2.6.1"
   }
 }
